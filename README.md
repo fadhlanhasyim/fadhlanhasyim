@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fadhlanhasyim
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning python and Java
+- 🌱 I’m currently learning Flutter and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fadhlanhasyim54@gmail.com
 
