@@ -1,47 +1,108 @@
 # Hey, I'm Fadhlan 👋
 
-**Backend Software Engineer** building scalable and reliable systems, and exploring **AI-powered applications**.
+### Backend Engineer · Distributed Systems · AI Explorer
 
-Currently working at **Traveloka**, where I work on backend systems in the Flights domain. Previously at **tiket.com**, working on backend services for Accommodation.
+I build **scalable and reliable backend systems** — currently working on **Flights at Traveloka**, and previously building backend services for **Accommodation at tiket.com**.
 
-### 🛠️ Tech Stack
+Lately, I'm also exploring how **AI can make software more capable, useful, and automated.**
+
+---
+
+### 🧑‍💻 What I Do
+
+I enjoy solving problems where **software meets scale, reliability, and complexity**.
+
+```text id="b4eaas"
+Backend Systems
+      ↓
+Distributed Systems
+      ↓
+Data & Infrastructure
+      ↓
+AI-powered Applications
+```
+
+Things I enjoy working with:
+
+* ⚙️ Backend services & APIs
+* 🔄 Event-driven & distributed systems
+* ⚡ High-concurrency & data consistency
+* 🗄️ Database design & performance
+* ☁️ Cloud infrastructure & automation
+* 🎨 Web & frontend development
+* 🤖 AI / LLM-powered applications
+
+---
+
+### 🛠️ My Toolbox
 
 **Languages**
-Java · Python · SQL
 
-**Backend & Distributed Systems**
-Spring Boot · Kafka · Redis · REST APIs
+`Java` `Python` `JavaScript` `SQL`
 
-**Data & Storage**
-PostgreSQL · ScyllaDB
+**Backend & Systems**
+
+`Spring Boot` `Kafka` `Redis` `REST APIs`
+
+**Data**
+
+`PostgreSQL` `ScyllaDB`
 
 **Cloud & Infrastructure**
-AWS · Terraform · Docker
 
-**Exploring**
-AI · LLMs · AI-powered applications · Automation
+`AWS` `Terraform` `Docker`
 
-### 💻 What I Enjoy Working On
+**Frontend**
 
-* Backend systems and APIs
-* Distributed systems & event-driven architecture
-* High-concurrency and data consistency problems
-* Database design and performance
-* Cloud infrastructure
-* AI-powered tools and applications
-* Building reliable, maintainable software
+`JavaScript` `HTML` `CSS`
 
-### 🚀 What I'm Building
+**Currently Exploring**
 
-Most of my professional work lives in private or organization repositories, while my personal GitHub contains projects and experiments where I explore ideas outside of work.
+`AI` `LLMs` `AI Agents` `Automation`
 
-Currently, I'm exploring **AI and LLMs**, particularly how they can be combined with backend systems, automation, and developer tools.
+---
 
-### 🎓 Background
+### ✈️ What I've Been Working On
 
-**Computer Science — Universitas Indonesia**
-3.91 / 4.00 · Summa Cum Laude
+**Traveloka — Flights**
+Building and maintaining backend systems supporting flight-related products and operations.
 
-### 📫 Find Me Elsewhere
+**tiket.com — Accommodation**
+Previously worked on backend services supporting accommodation products.
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/fadhlanhasyim)
+Most of my professional work lives in private or organization repositories, so this profile is also where I experiment with ideas and build things outside of work.
+
+---
+
+### 🚀 Outside of Work
+
+I like turning random ideas into working software — especially projects involving **backend systems, automation, developer tools, and AI**.
+
+One of the things I enjoy most about software engineering is taking an idea from:
+
+**“What if we built this?”**
+
+→ **“Let's see if it actually works.”**
+
+---
+
+### 🎓 A Little Background
+
+🎓 **Computer Science — Universitas Indonesia**
+`3.91 / 4.00` · *Summa Cum Laude*
+
+💼 **Backend Software Engineer**
+Traveloka · tiket.com
+
+🌐 **Frontend Development**
+COMPFEST
+
+🌏 Interested in **Japan, technology, and building things**
+
+---
+
+### 📫 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/fadhlan-hasyim/) · [GitHub](https://github.com/fadhlanhasyim)
+
+> *Build things. Break things. Learn. Build better things.*
